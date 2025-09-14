@@ -1,4 +1,4 @@
-# Simple Java Agent
+# Dummy Java Agent
 
 This project contains a minimal, "do-nothing" Java agent.
 
@@ -36,3 +36,4 @@ Assuming you have `main.jar` application, you can run it with the agent like thi
 ```
 java -javaagent:build/dummy.jar=AnyOrNoArgument -jar main.jar
 ```
+
